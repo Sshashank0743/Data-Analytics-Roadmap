@@ -1,0 +1,9 @@
+This repository contains the roadmap and associated resources for building and deploying a data analytics pipeline to extract insights from various data sources.
+
+# Contents:
+
+## roadmap.md ##: Detailed roadmap outlining the steps involved in the data analytics process.
+data: Placeholder for datasets used in the project.
+scripts: Scripts for data preprocessing, modeling, and evaluation.
+reports: Generated reports and visualizations.
+README.md: Instructions for setting up and running the project.
