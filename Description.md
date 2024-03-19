@@ -15,7 +15,7 @@ This repository contains the roadmap and associated resources for building and d
 
 **Success GIF:**
 
-![Success GIF]([https://media.tenor.co/images/3284dc9720eea9ddbed3646e65bb8c25/raw](https://giphy.com/gifs/RiseatSeven-completed-riseatseven-it-HLoJUnVVvyJkcGgxsv))
+![Success GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTB0eWt1a2lvbzg4bXZ2NjM4NzNqczY4MXMxcnFrbHBjMjZhcW50cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLoJUnVVvyJkcGgxsv/giphy.gif)
 
 
 **Contributing:**
