@@ -2,6 +2,10 @@
 
 This repository contains code and resources for performing data analytics tasks.
 
+```diff
+@@ I am looking for self-motivated students interested in Data Analtics at different levels! @@
+```
+
 ## Roadmap
 
 - [Define Objectives](#define-objectives)
