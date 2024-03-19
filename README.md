@@ -6,6 +6,8 @@ This repository contains code and resources for performing data analytics tasks.
 @@ I am looking for self-motivated students interested in Data Analtics at different levels! @@
 ```
 
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.buymeacoffee.com/shashankshukla)
+
 ## Roadmap
 
 - [Define Objectives](#define-objectives)
