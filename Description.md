@@ -6,6 +6,7 @@ This repository contains the roadmap and associated resources for building and d
 - `data`: Placeholder for datasets used in the project.
 - `scripts`: Scripts for data preprocessing, modeling, and evaluation.
 - `reports`: Generated reports and visualizations.
+- `figma`: Complete Roadmap with flow
 - `README.md`: Instructions for setting up and running the project.
 
 **Setup Instructions:**
