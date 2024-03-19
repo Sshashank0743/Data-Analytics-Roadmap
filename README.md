@@ -75,7 +75,18 @@ Establish procedures for model retraining and updating based on changing data or
 ```bash
 git clone https://github.com/Sshashank0743/Data-Analytics-Roadmap.git
 
+```
 # Install dependencies:
+```bash
 pip install -r requirements.txt
+```
+
+# Contributing:
+Contributions are welcome! If you want to contribute some missing examples or fix some bugs, feel free to fork the repository, make changes, and submit a pull request.
+
+# Success GIF:
+
+![Success GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTB0eWt1a2lvbzg4bXZ2NjM4NzNqczY4MXMxcnFrbHBjMjZhcW50cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLoJUnVVvyJkcGgxsv/giphy.gif)
+
 
 
