@@ -3,7 +3,7 @@
 This repository contains code and resources for performing data analytics tasks.
 
 ```diff
-@@ I am looking for self-motivated students interested in Data Analtics at different levels! @@
+@@ I am looking for self-motivated students interested in Data Analytics at different levels! @@
 ```
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.buymeacoffee.com/shashankshukla)
@@ -68,6 +68,11 @@ Integrate models with existing systems or applications to automate decision-maki
 
 Implement monitoring solutions to track model performance and data drift over time.
 Establish procedures for model retraining and updating based on changing data or business requirements.
+
+
+## Trackersheet-For-Data-Analyst-Preparation
+
+[Youtube Channel](https://www.youtube.com/watch?v=yVlMaynpaO8&t=3s)
 
 
 ## Usage
